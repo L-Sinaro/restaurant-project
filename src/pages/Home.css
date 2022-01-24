@@ -1,0 +1,19 @@
+.homePage {
+    margin : 0 auto;
+    max-width: 50em;
+}
+.description {
+    margin: 0em 2em;
+    align-items: center;
+    
+    font-size: 1.5em;
+    color: black;
+}
+
+.image {
+    margin: 0;
+    width: 20em;
+    height: 100%;
+    justify-content: left;
+    
+}
